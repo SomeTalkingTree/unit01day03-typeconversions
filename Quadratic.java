@@ -1,3 +1,4 @@
+// TODO: rename variables so they're more meaningful
 public class Quadratic {
     public static void main(String[] args) {
      Double num = Double.parseDouble(args[0]);

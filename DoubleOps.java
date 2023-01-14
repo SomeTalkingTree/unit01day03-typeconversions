@@ -1,3 +1,4 @@
+// good 
 class DoubleOps {
     public static void main(String[] args) {
         Double num = Math.abs(Double.parseDouble(args[0]));
